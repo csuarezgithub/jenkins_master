@@ -1,0 +1,7 @@
+Started by user [8mha:////4CSU22sabtpet129fKetHivvt9vwmfSs5nV4yr9AJFsAAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test-param
+[test-param] $ /bin/sh -xe /tmp/jenkins7184234736228260874.sh
++ /opt/script.sh tom CORTEZ false
+Si quieres ver el nombre, selecciona la casilla de MOSTRAR
+Finished: SUCCESS

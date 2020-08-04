@@ -1,0 +1,36 @@
+Started at Fri Jul 31 17:45:30 UTC 2020
+Processing ansible-dsl
+Offering ansible-dsl to Project Build Discarder
+Processing ansible-job
+Offering ansible-job to Project Build Discarder
+Processing ansible-job2
+Offering ansible-job2 to Project Build Discarder
+Processing backup-db-to-aws
+Offering backup-db-to-aws to Project Build Discarder
+Processing db-ansible-users
+Offering db-ansible-users to Project Build Discarder
+Processing ENV
+Offering ENV to Project Build Discarder
+Processing job-created-from-git
+Offering job-created-from-git to Project Build Discarder
+Processing job-dsl
+Offering job-dsl to Project Build Discarder
+Processing job_dsl_example
+Offering job_dsl_example to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Processing maven-project-lee-github-publico
+Offering maven-project-lee-github-publico to Project Build Discarder
+Processing maven-project-lee-gitlab-local
+Offering maven-project-lee-gitlab-local to Project Build Discarder
+Processing maven_dsl
+Offering maven_dsl to Project Build Discarder
+Processing pipeline-job
+Offering pipeline-job to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Processing test
+Offering test to Project Build Discarder
+Processing test-param
+Offering test-param to Project Build Discarder
+Finished at Fri Jul 31 17:45:30 UTC 2020. 4ms

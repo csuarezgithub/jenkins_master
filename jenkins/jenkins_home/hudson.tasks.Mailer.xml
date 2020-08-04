@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@1.32">
+  <defaultSuffix></defaultSuffix>
+  <hudsonUrl>http://casa:8080/</hudsonUrl>
+  <authentication>
+    <username>AKIAUD4BJQWOPRYYOFXO</username>
+    <password>{AQAAABAAAAAw1GXzYtZVH5DWWXmE7bgbUgXUogUZ/77OFQs2yzszWgGeIKwLFM3DzxaoLV4FS9K6n+3zwW967Dt/1YeJ7DefBA==}</password>
+  </authentication>
+  <smtpHost>email-smtp.us-east-2.amazonaws.com</smtpHost>
+  <useSsl>true</useSsl>
+  <useTls>false</useTls>
+  <smtpPort>465</smtpPort>
+  <charset>UTF-8</charset>
+</hudson.tasks.Mailer_-DescriptorImpl>

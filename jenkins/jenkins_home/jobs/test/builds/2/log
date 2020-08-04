@@ -1,0 +1,8 @@
+Started by user [8mha:////4CSU22sabtpet129fKetHivvt9vwmfSs5nV4yr9AJFsAAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins1428195968629726398.sh
++ date
++ echo La fecha y la hora Wed Jul  8 03:06:44 UTC 2020
+La fecha y la hora Wed Jul  8 03:06:44 UTC 2020
+Finished: SUCCESS

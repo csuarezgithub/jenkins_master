@@ -1,0 +1,11 @@
+Started on Jul 31, 2020 6:00:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 469a2ffdcd29c325aa8d8fb07dbdb4d8a4e7257f (refs/remotes/origin/master)
+using credential git_creds
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h -- http://git/root/maven-project-lee.git # timeout=10
+Found 1 remote heads on http://git/root/maven-project-lee.git
+[poll] Latest remote head revision on refs/heads/master is: 469a2ffdcd29c325aa8d8fb07dbdb4d8a4e7257f - already built by 3
+Done. Took 0.21 sec
+No changes

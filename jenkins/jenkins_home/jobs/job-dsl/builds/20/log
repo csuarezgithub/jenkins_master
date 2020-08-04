@@ -1,0 +1,27 @@
+Started by user [8mha:////4CSU22sabtpet129fKetHivvt9vwmfSs5nV4yr9AJFsAAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/job-dsl
+using credential git_creds
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url http://git/jenkinsci/dsl.git # timeout=10
+Fetching upstream changes from http://git/jenkinsci/dsl.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- http://git/jenkinsci/dsl.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision ae731824917772ede3cdfdcf9977883818a3d9e7 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ae731824917772ede3cdfdcf9977883818a3d9e7 # timeout=10
+Commit message: "Test4"
+ > git rev-list --no-walk ae731824917772ede3cdfdcf9977883818a3d9e7 # timeout=10
+Processing DSL script jobs
+ERROR: startup failed:
+jobs: 102: unexpected token: } @ line 102, column 1.
+   }
+   ^
+
+1 error
+
+Finished: FAILURE

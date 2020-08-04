@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.74">
+  <approvedScriptHashes>
+    <string>00dabdc395c303badbc6ad984b78ddbb81caaa84</string>
+    <string>017d0db438428731cd600b6ebda805065433520f</string>
+    <string>0baa58d8792eead3ce60abdc076e37eda77923e6</string>
+    <string>1c5da138d74565469257cc9b098f91d0c1deb4cb</string>
+    <string>1e1f6117db706cb5e11691bfa6471292e0487208</string>
+    <string>21ccee44a0ac393303de72c7fc64d6ec7287625c</string>
+    <string>314415e89385a12b56af472d19500f3bdd2120df</string>
+    <string>4439b8e784714032305c3d686c5d3421f8f4d809</string>
+    <string>4691b869e81fbe3171d9cf6a2d6a5691c4aece4f</string>
+    <string>5785c40daa6ee4ab0994e7bac6ed6a7579cd7087</string>
+    <string>5d96990281558085403ad6de26b82bd0942a1395</string>
+    <string>c6f17a1520fbf96f8ec877338de6ea78086f1eb8</string>
+    <string>efad70e861262be383ba6dfc17e73de0a431bfbc</string>
+    <string>f8da5bc99adc15b69abc3f0894d14d0f0f3a22ef</string>
+  </approvedScriptHashes>
+  <approvedSignatures/>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts/>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>

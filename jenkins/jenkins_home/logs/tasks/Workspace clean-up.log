@@ -1,0 +1,17 @@
+Started at Thu Jul 30 11:26:25 UTC 2020
+Checking ansible-dsl
+Checking ansible-job
+Checking ansible-job2
+Checking backup-db-to-aws
+Checking db-ansible-users
+Checking ENV
+Checking job-created-from-git
+Checking job-dsl
+Checking job_dsl_example
+Checking maven-job
+Checking maven_dsl
+Checking pipeline-job
+Checking remote-task
+Checking test
+Checking test-param
+Finished at Thu Jul 30 11:26:25 UTC 2020. 16ms

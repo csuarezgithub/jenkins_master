@@ -1,0 +1,11 @@
+Started by user [8mha:////4CSU22sabtpet129fKetHivvt9vwmfSs5nV4yr9AJFsAAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/ENV
+[ENV] $ /bin/sh -xe /tmp/jenkins8068816321938032744.sh
++ echo BUILD NUMBER: 8
+BUILD NUMBER: 8
++ echo PLATAFORMA: UDEMY
+PLATAFORMA: UDEMY
++ echo PAIS: Chile
+PAIS: Chile
+Finished: SUCCESS

@@ -1,0 +1,10 @@
+Started on Jul 30, 2020 4:25:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 0caf6111d5ef4679bf818f99fa448a525566ee69 (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h -- https://github.com/csuarezgithub/maven-project.git # timeout=10
+Found 5 remote heads on https://github.com/csuarezgithub/maven-project.git
+[poll] Latest remote head revision on refs/heads/master is: ca96aaee11b493919ccf7294a3b06a86c9977841
+Done. Took 0.86 sec
+Changes found

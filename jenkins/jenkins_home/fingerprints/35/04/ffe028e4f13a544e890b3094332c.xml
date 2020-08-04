@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-07-27 22:48:54.1 UTC</timestamp>
+  <md5sum>3504ffe028e4f13a544e890b3094332c</md5sum>
+  <fileName>Credential id=MY-SECRET name=MY-SECRET</fileName>
+  <usages>
+    <entry>
+      <string>pipeline-job</string>
+      <ranges>9</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
